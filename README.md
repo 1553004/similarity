@@ -1,6 +1,6 @@
 # similarity
 1.visual code  
-2.similarity install extension c#  
+2.install extension c#  
 3.dotnet run 
   
 Sentence 1 = "this is a cat"  
