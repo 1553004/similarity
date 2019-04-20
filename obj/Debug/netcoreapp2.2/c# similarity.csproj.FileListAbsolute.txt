@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\c# similarity\bin\Debug\netcoreapp2.2\c# similarity.deps.json
+C:\Users\DELL\Desktop\c# similarity\bin\Debug\netcoreapp2.2\c# similarity.runtimeconfig.json
+C:\Users\DELL\Desktop\c# similarity\bin\Debug\netcoreapp2.2\c# similarity.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\c# similarity\bin\Debug\netcoreapp2.2\c# similarity.dll
+C:\Users\DELL\Desktop\c# similarity\bin\Debug\netcoreapp2.2\c# similarity.pdb
+C:\Users\DELL\Desktop\c# similarity\obj\Debug\netcoreapp2.2\c# similarity.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c# similarity\obj\Debug\netcoreapp2.2\c# similarity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c# similarity\obj\Debug\netcoreapp2.2\c# similarity.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\c# similarity\obj\Debug\netcoreapp2.2\c# similarity.AssemblyInfo.cs
+C:\Users\DELL\Desktop\c# similarity\obj\Debug\netcoreapp2.2\c# similarity.dll
+C:\Users\DELL\Desktop\c# similarity\obj\Debug\netcoreapp2.2\c# similarity.pdb
