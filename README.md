@@ -1,2 +1,4 @@
 # similarity
-similarity c#
+visual code
+similarity install extension c#
+dotnet run
